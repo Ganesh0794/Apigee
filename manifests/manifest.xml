@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies/>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:8c293652c45308a7ba6f9f1104a34536e422e865100b3f507c621df65923c2c82cbdbd516d9f344b71ec00f461afda2fb903fe76a42ed57dee79fae5b4186287"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="Netflix" version="SHA-512:c9c1c28c438490cd05601393c57748cff9ebe99f830fefc9e46516898e0540fe84c7f1d47ec6e15dbc97eb34027c9731ed755502205e680c33b5cfa624daa263"/>
+        <VersionInfo resourceName="Prime" version="SHA-512:d0f27fb1aa62f6bb18dc842f041bf583247cebff0772dfc768df9b83cf12f5bd37688ede57a12b2a55fe21973ed33459524cc57d1242c9a5e1d603c5dbda9327"/>
+        <VersionInfo resourceName="default" version="SHA-512:0e6caccb0db5662172f212a0eb5185cc8c0ab59c6e41b778d9fe944f961fab59a85cc1a9b036b5e388fff296212443d205273d21aef5e362bdb3a1cb535e7f29"/>
+    </TargetEndpoints>
+</Manifest>
