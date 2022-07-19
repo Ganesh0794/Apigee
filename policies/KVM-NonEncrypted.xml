@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KeyValueMapOperations async="false" continueOnError="false" enabled="true" name="KVM-NonEncrypted" mapIdentifier="KVM_testing">
+    <DisplayName>KVM-NonEncrypted</DisplayName>
+    <Properties/>
+    <Get assignTo="Tony">
+        <Key>
+            <Parameter>Tony Stark</Parameter>
+        </Key>
+    </Get>
+    <Scope>environment</Scope>
+</KeyValueMapOperations>

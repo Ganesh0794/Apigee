@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="KVM-NonEncrypted" version="SHA-512:7df9cc693c29ff0c9e37ad13c378ae08af5ff8f206f284a914886417e7b9a57cb79d804ab0ecea6fffd9391c19526f8c4740f77fee28d0185f5973f65f0efd57"/>
+        <VersionInfo resourceName="Key-Value-Map-Operations-2" version="SHA-512:20f7d224cf4c8668e296b14046f0b1036924aba1a604888f04766216fced5bc38a05b1cbc6dfc4d86895af1b630921e89f37d8326654adc32fb8ebb2d71e7490"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:2f3ddf7df9a93d0a26813403a5777a2d5880de7dec280dd91d0c7cf9b2a0ec09b7338a988e13dbf771a104088606afcac8ed2c9c7cd1ef04fe51fb1077e76e50"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:0c5313ca6d00e8b5b70503191be8e12dfa60d09143fe8570dab783aaa10df81adf0b5a432c4adae6bd57bd97c3c41092cbe48b88648aa013f101dc181c6b7c96"/>
+    </TargetEndpoints>
+</Manifest>

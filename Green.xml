@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="2" name="Green">
+    <Basepaths>/green</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1657806222868</CreatedAt>
+    <CreatedBy>tricksintrades@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>Green</DisplayName>
+    <LastModifiedAt>1658137967129</LastModifiedAt>
+    <LastModifiedBy>tricksintrades@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:680e0fd1b596ed18cb1da1ecd2c873f144dbbd8ea0486d46b9ade5fbe59ff0e91cb56199e2807a535a56d754c8bc1fb194359b0e839b8ffee196ea18a540f38c:ap-northeast-1</ManifestVersion>
+    <Policies>
+        <Policy>KVM-NonEncrypted</Policy>
+        <Policy>Key-Value-Map-Operations-2</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
